@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swatigothwal/engage.git.git"
+    "url": "git+https://github.com/swatigothwal/FinalEngageTeams.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://https://github.com/swatigothwal/engage.git/issues"
+    "url": "https://github.com/swatigothwal/FinalEngageTeams.git/issues"
   },
-  "homepage": "https://github.com/swatigothwal/engage.git#readme",
+  "homepage": "https://github.com/swatigothwal/FinalEngageTeams.git#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
